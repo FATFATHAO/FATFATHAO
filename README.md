@@ -8,15 +8,15 @@
 
 ```json
 {
-  "education": "Harbin Institute of Technology (Data Science & Big Data)",
+  "education": "Harbin Harbin University of Science and Technology (Data Science & Big Data)",
   "graduation": "2027.06",
   "status": "Actively seeking Frontend Internship",
-  "current_focus": ["Golang", "V8 Engine Internals", "Low-level C++ (Assembly & Memory)"],
+  "current_focus": ["Golang", "Electron"],
   "motto": "Talk is cheap. Show me the code."
 }
 ```
 
-### 技术武器库 (Tech Stack)
+### 我使用的技术栈
 
 <div align="center">
   <!-- 动态技能图标：自动生成，极简风格 -->
@@ -25,27 +25,25 @@
   </a>
 </div>
 
-### 战力面板 (GitHub Stats)
+### Github Status
 
 <div align="center">
   <!-- 动态状态卡片：使用 tokyonight 极客暗黑主题 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FATFATHAO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FATFATHAO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 </div>
 
-### 核心战斗记录 (Featured Quests)
+### 我贡献过的项目
 
 - **[WeFlow Contribution]** - Implemented native Linux D-Bus notifications for Wayland support. 
 - **[C++ SDL Game Engine]** - Engineered game mechanics and rigid body collision detection from scratch.
 - **[Gobang AI]** - Developed a heuristic evaluation function with incremental updates for board state analysis.
 - **[Log Processor]** - Built a MapReduce-based architecture for large-scale website access log analysis.
 
-### 隐藏身份 (Beyond the Code)
+### 除了代码我还会干什么？
 
-- 🚩 **CTF & ARG 狂热者：** 热衷于拆解靶机和探索 Alternate Reality Games，享受解谜与破解的快感。
-- ✒️ **连载小说家：** 正在用键盘敲击另一个世界（文风深度致敬江南）。
-- 📝 **技术布道师：** 坚持更新个人博客，记录从前端 React 坑点到 C++ 汇编内存的硬核探索。
+- **CTF & ARG 爱好者：** 热衷于拆解靶机和探索Alternate Reality Games，享受解谜与破解的快感。
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00FF00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=FATFATHAO&color=00FF00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
