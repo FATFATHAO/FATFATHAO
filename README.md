@@ -28,9 +28,8 @@
 ### Github Status
 
 <div align="center">
-  <!-- 动态状态卡片：使用 tokyonight 极客暗黑主题 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=FATFATHAO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FATFATHAO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <!-- GitHub 贡献图 -->
+  <img src="https://github-contributions-api.deno.dev/FATFATHAO.svg" alt="GitHub Contributions" />
 </div>
 
 ### 我贡献过的项目
