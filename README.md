@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi,+I'm+FAT+FAT+HAO;print(%22Geek+%7C+Coder+%7C+Writer%22);Exploring+V8,+C%2B%2B,+%26+Web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi,+I'm+FAT+FAT+HAO;print(%22Geek+%7C+Coder+%7C+Writer%22);Exploring+V8,+Golang,+%26+Web" alt="Typing SVG" />
 </div>
 
 ---
@@ -21,7 +21,7 @@
 <div align="center">
   <!-- 动态技能图标：自动生成，极简风格 -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,ts,react,go,js,html,css,linux,bash,git,docker&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,react,go,py,js,html,css,linux,bash,git,docker&theme=dark" />
   </a>
 </div>
 
