@@ -21,7 +21,7 @@
 <div align="center">
   <!-- 动态技能图标：自动生成，极简风格 -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,go,py,js,html,css,linux,bash,git,docker&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,react,go,py,js,html,css,linux,arch,bash,git,docker,neovim,emacs&theme=dark" />
   </a>
 </div>
 
