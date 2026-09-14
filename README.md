@@ -11,7 +11,7 @@
   "education": "Harbin Harbin University of Science and Technology (Data Science & Big Data)",
   "graduation": "2027.06",
   "status": "Actively seeking Frontend Internship",
-  "current_focus": ["Golang", "Electron"],
+  "current_focus": ["Golang", "Electron", "Python", AI Agent, AI Slop],
   "motto": "Talk is cheap. Show me the code."
 }
 ```
