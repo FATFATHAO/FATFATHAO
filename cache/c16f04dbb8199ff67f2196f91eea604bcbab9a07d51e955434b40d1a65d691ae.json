@@ -1,0 +1,257 @@
+{
+ "AKA-Tian7/AI-training-platform-python-service": [
+  "9b146e061e1ff5c0438ba395503f778108bcbe6b",
+  0,
+  0
+ ],
+ "AKA-Tian7/lingkun-data-insight-server": [
+  "52b5176532b79b913732bc067aac17e6c601ecab",
+  0,
+  0
+ ],
+ "Cleverfff/Lemon": [
+  "ff23d0970be30573939e56dd299417d29f234516",
+  0,
+  0
+ ],
+ "FATFATFUZHU/TK5DXexpertreview": [
+  "aea0ff324540a9611fcb5673548bc64e5d87d925",
+  0,
+  0
+ ],
+ "FATFATHAO/BilibiliRecordedBroadcastTool": [
+  "9be58d6537884fb6bf49637e48d5ac3f6036efda",
+  77,
+  0
+ ],
+ "FATFATHAO/Dev_QT_CMake_Test_sCReenPet": [
+  "bca587aa3825e994d5a52c3e13b04736459bac73",
+  0,
+  0
+ ],
+ "FATFATHAO/FATFATHAO": [
+  "71248e7ff4b563da52b485f29e41fadead2f8410",
+  71,
+  24
+ ],
+ "FATFATHAO/HAOVIM": [
+  "311e322887e72d00c9c41b7710af7f915bc13718",
+  0,
+  0
+ ],
+ "FATFATHAO/HRBUST-CS-HTML": [
+  "a4cae80897d123054f4079927d899672a9393a86",
+  12541,
+  6
+ ],
+ "FATFATHAO/HRBUST-Live-Comment-Hotspot": [
+  "0aff415769a49d2b37d557b0f23bce33df72c1f1",
+  130,
+  0
+ ],
+ "FATFATHAO/MOSS-ChunkTranscribe": [
+  "220252291572f8c1b4910b2efba3ab965d80420b",
+  36027,
+  18925
+ ],
+ "FATFATHAO/Mizuki": [
+  "bb80289d16c8522e04a1cdda769db60073eaa14d",
+  0,
+  0
+ ],
+ "FATFATHAO/OpenCVOnOSU": [
+  "48d37ce5380449d7d9f6b65f5c06fdb862f21783",
+  4,
+  1
+ ],
+ "FATFATHAO/Reverse-Learning-Fronts": [
+  "07ae8b11cabdf1ed53a849806c2ea425e30a9406",
+  3047,
+  92
+ ],
+ "FATFATHAO/StoreShoppingSystemByJava": [
+  "a2fd67e6c77da84b95125dcc3d3c3f5e5f10111a",
+  0,
+  0
+ ],
+ "FATFATHAO/Taikou5-Refactor": [
+  "1f3d92346c0dc888321586a8a52a755345eec8d0",
+  153125,
+  46
+ ],
+ "FATFATHAO/agent-session-cleaner": [
+  "7d14c1e35734b8bf66fca9d7c7580a0bb2df8aa4",
+  0,
+  0
+ ],
+ "FATFATHAO/b-data-gov-project": [
+  "983eedb90631d8dcccfdd129bce6ab3ae97fdbd2",
+  134275,
+  3454
+ ],
+ "FATFATHAO/bilibili-API-collect-backup": [
+  "cfc5fddcc8a94b74d91970bb5b4eaeb349addc47",
+  0,
+  0
+ ],
+ "FATFATHAO/blender-b-subeditor-fixed": [
+  "3c3aab65265b2cd4a323052fb4456cc9215c72cd",
+  820,
+  0
+ ],
+ "FATFATHAO/comfyui-tag-cart": [
+  "30ecf84e8049d2609771fa888c778bc8422d94a3",
+  617134,
+  3400
+ ],
+ "FATFATHAO/course-design": [
+  "a1bd3d777f31fb3ab97701ca980012a422902236",
+  12268,
+  0
+ ],
+ "FATFATHAO/cumora": [
+  "622498370cf76965a18d3c5041b040f0e57237d0",
+  0,
+  0
+ ],
+ "FATFATHAO/deepseek-harness": [
+  "47f943859bef60e4160492346772ded9b24f765a",
+  0,
+  0
+ ],
+ "FATFATHAO/dify": [
+  "f07f9ee7a3e7367c22165d5e75f0a738d7e74698",
+  0,
+  0
+ ],
+ "FATFATHAO/dotfiles": [
+  "13e149cad26ccbc534edbad3f4d19c53b3201e2b",
+  365364,
+  58
+ ],
+ "FATFATHAO/fathao_leigod_adjustment": [
+  "5a9c2ef5e541512fc5f98cde583f5be2664686d9",
+  0,
+  0
+ ],
+ "FATFATHAO/hrbust-ai-chat": [
+  "6db6c33fd34d4be66cb0a954721acfedaf5db01e",
+  5341,
+  2584
+ ],
+ "FATFATHAO/hrbust-ai-data-coze": [
+  "5e678e4a8ab2fb4435fc89cf616bff799b828958",
+  201,
+  0
+ ],
+ "FATFATHAO/hrbust-ai-data-dify": [
+  "a5ce17009f521682efd001aca8c506bddcebf377",
+  0,
+  0
+ ],
+ "FATFATHAO/hrbust-ai-excel": [
+  "b53a028e72093218a93f0a379ec1025abaec1af3",
+  1997,
+  199
+ ],
+ "FATFATHAO/hrbust-ai-plugins": [
+  "e33dacdc3a523b6f4b25a237510d43dd36d816e4",
+  2750,
+  222
+ ],
+ "FATFATHAO/kaoyan-navigator-skill": [
+  "7ba9813926236810738df9d236ea5b7048afc988",
+  0,
+  0
+ ],
+ "FATFATHAO/minnow": [
+  "8cabf8830b79c316eb65912a3bb45909ea637367",
+  0,
+  0
+ ],
+ "FATFATHAO/my-fcitx5-rime-ice": [
+  "f9df5c7ea2cae20b1479824cb4ec964673c93983",
+  34280,
+  1
+ ],
+ "FATFATHAO/obelisk": [
+  "acaaede30cba247ca2c7d1977228f4f4e1eb5b84",
+  0,
+  0
+ ],
+ "FATFATHAO/qq-bot": [
+  null,
+  0,
+  0
+ ],
+ "FATFATHAO/re0-web": [
+  "a9aed24f64b5fca32ec6739a466ed7197fff0065",
+  0,
+  0
+ ],
+ "FATFATHAO/react-antd-graphql-ts-byFATHAO": [
+  "4950281fc022d161b78614584c93ae826c683685",
+  0,
+  0
+ ],
+ "FATFATHAO/reactproject1": [
+  "1121d02d923662a8bb2bf4252fb8492fc0e129a9",
+  0,
+  0
+ ],
+ "FATFATHAO/reglog-server-byFATHAO": [
+  "71d5492dbbaefad3cc44e41a41c2ea902e6bd95c",
+  0,
+  0
+ ],
+ "FATFATHAO/resume": [
+  "262927bc683ac743fb2df9ee36d5b4ab2137ddef",
+  83,
+  0
+ ],
+ "FATFATHAO/screen-off-camera": [
+  "41ca8000ce401bb28b9fef89d419badd02357620",
+  8981,
+  22
+ ],
+ "FATFATHAO/study-shop-ui": [
+  "c5d675b6d24c773ecc79bced2dda543155bb71c8",
+  0,
+  0
+ ],
+ "FATFATHAO/xhplant": [
+  "9bddbfdf40a9b22396850fcc5e7edb0285c0be96",
+  214263,
+  383
+ ],
+ "Gu0Y1Du0/JavaDataBaseHomework": [
+  "6ec9953e5ea6e899642a112c5485036cb98108cb",
+  2470,
+  156
+ ],
+ "Gu0Y1Du0/Reverse-Learning-Backend": [
+  "2e1721f7723cde0f5756af46f136717297a3d7f8",
+  0,
+  0
+ ],
+ "HIT-HUST1939ai/AI-training-platform-clinic": [
+  "b4e33b9c418c3a762fc0d2671cad805c2dd5b8b0",
+  0,
+  0
+ ],
+ "HIT-HUST1939ai/AI-training-platform-service": [
+  "792205ffb6f2b0cb9a0a0c70efde1cdac30eca4d",
+  0,
+  0
+ ],
+ "Kyzr2000/laboratory-practice-back": [
+  "5ea55c17361f6bca6ba528cac0d2591db2542a50",
+  0,
+  0
+ ],
+ "Kyzr2000/laboratory-practice-front": [
+  "a1108a09519883f080d73e778c046064376327ae",
+  0,
+  0
+ ]
+}
