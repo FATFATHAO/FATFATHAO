@@ -3,7 +3,7 @@
 Run by .github/workflows/build.yaml on a schedule, or by hand:
     ACCESS_TOKEN=<token> USER_NAME=FATFATHAO python today.py
 
-Everything in the SVGs except the fields listed in WIDTHS is static.
+Everything in the SVGs except the fields rewritten below is static.
 """
 import datetime
 import hashlib
@@ -20,9 +20,6 @@ HEADERS = {'authorization': 'token ' + os.environ['ACCESS_TOKEN']}
 USER_NAME = os.environ['USER_NAME']
 BIRTHDAY = datetime.date(2005, 2, 10)  # drives the "Uptime" line
 SVGS = ('dark_mode.svg', 'light_mode.svg')
-# Field widths must match the generator that produced the SVGs, so dots + value == width.
-WIDTHS = {'age_data': 22, 'repo_data': 5, 'star_data': 12, 'commit_data': 18,
-          'follower_data': 10, 'pr_data': 18, 'issue_data': 8, 'loc_data': 9}
 
 
 def graphql(query, variables):
@@ -132,6 +129,25 @@ def loc_totals(repos, owner_id):
     return added, deleted
 
 
+def reflow(dots_text, delta):
+    """Resize a dot run by `delta` cells, keeping the line's total width fixed.
+
+    The generator only ever emits runs in the forms below, where character count
+    equals display width, so applying the value's length change to the run beside it
+    keeps the line flush without sharing a total-width constant across the two files.
+    """
+    if delta == 0:
+        return None
+    width = len(dots_text) - delta
+    if width <= 0:
+        return ''
+    if width == 1:
+        return ' '
+    if width == 2:
+        return '. '
+    return ' ' + '.' * (width - 2) + ' '
+
+
 def svg_overwrite(filename, values):
     tree = etree.parse(filename)
     root = tree.getroot()
@@ -139,12 +155,12 @@ def svg_overwrite(filename, values):
         node = root.find(f".//*[@id='{element_id}']")
         if node is None:
             raise SystemExit(f'{filename}: no element with id={element_id!r}')
-        node.text = text
         dots = root.find(f".//*[@id='{element_id}_dots']")
-        if dots is not None and element_id in WIDTHS:
-            pad = max(0, WIDTHS[element_id] - len(text))
-            dots.text = '' if pad == 0 else ' ' if pad == 1 else '. ' if pad == 2 else \
-                ' ' + '.' * (pad - 2) + ' '
+        if dots is not None and dots.text:
+            resized = reflow(dots.text, len(text) - len(node.text or ''))
+            if resized is not None:
+                dots.text = resized
+        node.text = text
     tree.write(filename, encoding='utf-8', xml_declaration=True)
 
 
