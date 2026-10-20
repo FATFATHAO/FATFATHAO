@@ -44,7 +44,7 @@ text, tspan {white-space: pre;}
 <text x="487" y="50" fill="#c9d1d9">
 <tspan x="487" y="30"><tspan class="key">rosecube</tspan><tspan class="cc">@</tspan><tspan class="value">fathao-arch</tspan></tspan>
 <tspan x="487" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Arch Linux, Windows 11, Android 16</tspan></tspan>
-<tspan x="487" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ............................... </tspan><tspan class="value" id="age_data">21 years, 8 months, 9 days</tspan></tspan>
+<tspan x="487" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> .............................. </tspan><tspan class="value" id="age_data">21 years, 8 months, 10 days</tspan></tspan>
 <tspan x="487" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Harbin Univ. of Science and Technology</tspan></tspan>
 <tspan x="487" y="110"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Data Science &amp; Big Data, 2027</tspan></tspan>
 <tspan x="487" y="130"><tspan class="cc">. </tspan><tspan class="key">Shell</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">zsh, Neovim (Lua), tmux</tspan></tspan>
